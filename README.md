@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- If you uploaded a banner image, uncomment the line below and update the filename -->
-<!-- <img src="./banner.png" alt="Profile Banner" width="100%" /> -->
+# Hi 👋, I'm Sanika Bhalekar
 
-# Hi 👋, I'm Uma Shankar
+### Senior QA Automation & Test Engineer | Python • Selenium • Pytest • BDD • API & SQL Testing
 
-### Aspiring QA Automation Engineer | Python | Selenium | Playwright | Pytest | SQL | Automation Framework Development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanika-bhalekar-64b09110b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/sanika233)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:Mahagaonkarsanika@gmail.com)
 
 </div>
 
@@ -13,21 +14,24 @@
 
 ### 💡 About Me
 
-* 🚀 Aspiring QA Automation Engineer with hands-on experience in developing scalable automation testing frameworks using **Python, Selenium WebDriver, Pytest, SQL, and Playwright**.
-* 🛠️ Skilled in designing maintainable automation frameworks using **Page Object Model (POM), Data-Driven Testing (DDT), Cross-Browser Testing, Explicit Waits, Logging, and Allure Reporting**.
-* 🎯 Currently seeking an entry-level QA Automation Engineer opportunity where I can contribute to software quality and continue growing as an automation professional.
+* 🚀 **QA Automation & Manual Test Engineer** with **6+ years of experience** ensuring high-quality software delivery across Banking, Financial Services, Insurance (BFSI), Compliance, and E-commerce domains[cite: 2].
+* 🛠️ **Framework Architecture:** Hands-on expertise architecting robust automation frameworks utilizing **Python, Selenium WebDriver, Pytest, Page Object Model (POM), and BDD (Behave/Gherkin)**[cite: 2].
+* 🔌 **API & Backend Testing:** Proven background in REST API validation using **Postman & Python Requests**, along with database integrity testing using advanced **SQL queries**[cite: 2].
+* 🔄 **Continuous Integration:** Experienced in configuring build triggers, running scheduled smoke/regression suites in **Jenkins/GitLab CI**, and generating rich execution dashboards with **Allure Reports**.
+* 🤝 **End-to-End Delivery:** Skilled in defect lifecycle management in **Jira/Zephyr**, stakeholder coordination, UAT support, and bridging requirement analysis with automated test execution within fast-paced **Agile/Scrum** teams[cite: 1, 2].
 
 ---
 
 ### 🚀 Tech Stack
 
-| Category | Skills & Tools |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL |
-| **Automation** | Selenium WebDriver, Playwright, Pytest, Page Object Model (POM), Data-Driven Testing (DDT) |
-| **Frameworks & Libs** | Robot Framework, Behave (BDD), Requests |
-| **Tools & CI/CD** | Git, GitHub, VS Code, PyCharm, MySQL, Allure Report, HTML Reports |
-| **Additional** | Logging, API Testing (Basics), Cross-Browser Testing |
+| **Test Automation** | Selenium WebDriver, Pytest, Playwright, Robot Framework, Page Object Model (POM), BDD (Behave)|
+| **Languages** | Python, Core Java, SQL, PL/SQL|
+| **API & Database Testing** | Postman, REST Services, JSON Schema Validation, MySQL, Relational Database Assertions |
+| **CI/CD & Version Control** | Jenkins, GitLab CI, Git, GitHub|
+| **Reporting & Test Management** | Allure Reports, Pytest-HTML, Jira, Zephyr, ServiceNow |
+| **Methodologies & Domains** | Agile/Scrum, STLC, Cross-Browser Testing, BFSI, Insurance, Compliance, HCM |
 
 ---
 
@@ -58,32 +62,23 @@
 
 ### 💼 Core Competencies
 
-- ✔ Automation Framework Development
-- ✔ Selenium WebDriver & Playwright
-- ✔ Python Programming & Pytest
-- ✔ Page Object Model (POM) & DDT
-- ✔ Functional, Regression & Smoke Testing
-- ✔ Cross-Browser Execution
-- ✔ Test Case Design & Defect Reporting
-- ✔ SDLC, STLC & Agile Methodology
-- ✔ Version Control with Git & GitHub
-- ✔ SQL & Database Validation
-
----
-
-### 🌱 Currently Learning
-
-* 🔄 Jenkins CI/CD Integration & GitHub Actions for Test Suites
-* ⚡ Advanced Playwright Automation & Network Interception
-* 🔌 REST API Testing with Python Requests
+- ✔ Automation Framework Architecture (POM & BDD)
+- ✔ Python Programming & Pytest Test Suites
+- ✔ Web UI Automation with Selenium WebDriver & Playwright
+- ✔ REST API Testing, Payload Verification & Postman Collections
+- ✔ Database Testing, Data Migration Checks & SQL Queries
+- ✔ CI/CD Integration with Jenkins & GitLab Pipelines
+- ✔ Test Artifact Generation & Interactive Allure Reports
+- ✔ Agile/Scrum Ceremonies, Sprint Planning & Defect Triage
+- ✔ Requirements Traceability & Business Acceptance Testing
 
 ---
 
 ### 🌐 Connect With Me
 
-* 📧 **Email:** [mahagaonkarsanika@gmail.com](mailto:mahagaonkarsanika@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/sanikabhalekar/](https://www.linkedin.com/in/sanikabhalekar/)
-* 💻 **GitHub:** [https://github.com/sanika233](https://github.com/sanika233)
+* 📧 **Email:** [Mahagaonkarsanika@gmail.com](mailto:Mahagaonkarsanika@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/sanika-bhalekar-64b09110b](https://www.linkedin.com/in/sanikabhalekar/)
+* 💻 **GitHub:** [github.com/sanika233](https://github.com/sanika233)
 
 ---
 
