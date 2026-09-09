@@ -1,10 +1,11 @@
 <div align="center">
+  <img src="./banner.svg" alt="Sanika Bhalekar Profile Banner" width="100%" />
 
 # Hi 👋, I'm Sanika Bhalekar
 
-###  QA Automation & Test Engineer | Python • Selenium • Pytest • BDD • API & SQL Testing
+### QA Automation & Test Engineer | Python • Selenium • Pytest • BDD • API & SQL Testing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanika-bhalekar-64b09110b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanikabhalekar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/sanika233)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:Mahagaonkarsanika@gmail.com)
 
