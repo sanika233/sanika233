@@ -1,6 +1,8 @@
 <div align="center">
   <img src="./sanika_banner.png" alt="Sanika Bhalekar Profile Banner" width="100%" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Python+%7C+Selenium+%7C+Pytest;Building+Reliable+Automation+Frameworks;Always+Learning+New+Technologies" />
+</p>
 # Hi 👋, I'm Sanika Bhalekar
 
 ### QA Automation & Test Engineer | Python • Selenium • Pytest • BDD • API & SQL Testing
