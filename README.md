@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sanika Bhalekar
 
-### Senior QA Automation & Test Engineer | Python • Selenium • Pytest • BDD • API & SQL Testing
+###  QA Automation & Test Engineer | Python • Selenium • Pytest • BDD • API & SQL Testing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanika-bhalekar-64b09110b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/sanika233)
@@ -14,11 +14,11 @@
 
 ### 💡 About Me
 
-* 🚀 **QA Automation & Manual Test Engineer** with **6+ years of experience** ensuring high-quality software delivery across Banking, Financial Services, Insurance (BFSI), Compliance, and E-commerce domains[cite: 2].
-* 🛠️ **Framework Architecture:** Hands-on expertise architecting robust automation frameworks utilizing **Python, Selenium WebDriver, Pytest, Page Object Model (POM), and BDD (Behave/Gherkin)**[cite: 2].
-* 🔌 **API & Backend Testing:** Proven background in REST API validation using **Postman & Python Requests**, along with database integrity testing using advanced **SQL queries**[cite: 2].
+* 🚀 **QA Automation & Manual Test Engineer** with **6+ years of experience** ensuring high-quality software delivery across Banking, Financial Services, Insurance (BFSI), Compliance, and E-commerce domains
+* 🛠️ **Framework Architecture:** Hands-on expertise architecting robust automation frameworks utilizing **Python, Selenium WebDriver, Pytest, Page Object Model (POM), and BDD (Behave/Gherkin)**
+* 🔌 **API & Backend Testing:** Proven background in REST API validation using **Postman & Python Requests**, along with database integrity testing using advanced **SQL queries**
 * 🔄 **Continuous Integration:** Experienced in configuring build triggers, running scheduled smoke/regression suites in **Jenkins/GitLab CI**, and generating rich execution dashboards with **Allure Reports**.
-* 🤝 **End-to-End Delivery:** Skilled in defect lifecycle management in **Jira/Zephyr**, stakeholder coordination, UAT support, and bridging requirement analysis with automated test execution within fast-paced **Agile/Scrum** teams[cite: 1, 2].
+* 🤝 **End-to-End Delivery:** Skilled in defect lifecycle management in **Jira/Zephyr**, stakeholder coordination, UAT support, and bridging requirement analysis with automated test execution within fast-paced **Agile/Scrum** teams
 
 ---
 
