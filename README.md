@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Sanika Bhalekar Profile Banner" width="100%" />
+  <img src="./sanika_banner.png" alt="Sanika Bhalekar Profile Banner" width="100%" />
 
 # Hi 👋, I'm Sanika Bhalekar
 
